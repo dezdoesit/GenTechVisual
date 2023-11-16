@@ -16,6 +16,14 @@
 		5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */; };
 		5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */; };
 		5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */; };
+		A916B56D2B06934A004AAB9F /* BrainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B56C2B06934A004AAB9F /* BrainView.swift */; };
+		A916B56F2B069373004AAB9F /* HeartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B56E2B069373004AAB9F /* HeartView.swift */; };
+		A916B5712B06937C004AAB9F /* EyeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5702B06937C004AAB9F /* EyeView.swift */; };
+		A916B5732B06938D004AAB9F /* ArmView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5722B06938D004AAB9F /* ArmView.swift */; };
+		A916B5752B069399004AAB9F /* LegView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5742B069399004AAB9F /* LegView.swift */; };
+		A916B5772B069651004AAB9F /* AndroidBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5762B069651004AAB9F /* AndroidBuilder.swift */; };
+		A916B5792B06A740004AAB9F /* Android.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5782B06A740004AAB9F /* Android.swift */; };
+		A916B57B2B06A7B8004AAB9F /* Species.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B57A2B06A7B8004AAB9F /* Species.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +37,14 @@
 		5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter3View.swift; sourceTree = "<group>"; };
 		5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 		5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter5View.swift; sourceTree = "<group>"; };
+		A916B56C2B06934A004AAB9F /* BrainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrainView.swift; sourceTree = "<group>"; };
+		A916B56E2B069373004AAB9F /* HeartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartView.swift; sourceTree = "<group>"; };
+		A916B5702B06937C004AAB9F /* EyeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EyeView.swift; sourceTree = "<group>"; };
+		A916B5722B06938D004AAB9F /* ArmView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmView.swift; sourceTree = "<group>"; };
+		A916B5742B069399004AAB9F /* LegView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegView.swift; sourceTree = "<group>"; };
+		A916B5762B069651004AAB9F /* AndroidBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AndroidBuilder.swift; sourceTree = "<group>"; };
+		A916B5782B06A740004AAB9F /* Android.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Android.swift; sourceTree = "<group>"; };
+		A916B57A2B06A7B8004AAB9F /* Species.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Species.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +134,14 @@
 			isa = PBXGroup;
 			children = (
 				5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */,
+				A916B5782B06A740004AAB9F /* Android.swift */,
+				A916B57A2B06A7B8004AAB9F /* Species.swift */,
+				A916B56C2B06934A004AAB9F /* BrainView.swift */,
+				A916B56E2B069373004AAB9F /* HeartView.swift */,
+				A916B5702B06937C004AAB9F /* EyeView.swift */,
+				A916B5722B06938D004AAB9F /* ArmView.swift */,
+				A916B5742B069399004AAB9F /* LegView.swift */,
+				A916B5762B069651004AAB9F /* AndroidBuilder.swift */,
 			);
 			path = Chapter5;
 			sourceTree = "<group>";
@@ -192,13 +216,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A916B5732B06938D004AAB9F /* ArmView.swift in Sources */,
 				5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */,
+				A916B56D2B06934A004AAB9F /* BrainView.swift in Sources */,
+				A916B5712B06937C004AAB9F /* EyeView.swift in Sources */,
 				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
 				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
+				A916B5772B069651004AAB9F /* AndroidBuilder.swift in Sources */,
 				5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */,
 				5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */,
 				5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */,
+				A916B56F2B069373004AAB9F /* HeartView.swift in Sources */,
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
+				A916B5752B069399004AAB9F /* LegView.swift in Sources */,
+				A916B57B2B06A7B8004AAB9F /* Species.swift in Sources */,
+				A916B5792B06A740004AAB9F /* Android.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
