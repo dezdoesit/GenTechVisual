@@ -24,6 +24,7 @@
 		A916B5772B069651004AAB9F /* AndroidBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5762B069651004AAB9F /* AndroidBuilder.swift */; };
 		A916B5792B06A740004AAB9F /* Android.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5782B06A740004AAB9F /* Android.swift */; };
 		A916B57B2B06A7B8004AAB9F /* Species.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B57A2B06A7B8004AAB9F /* Species.swift */; };
+		A916B57D2B06C71F004AAB9F /* PlaceHolderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B57C2B06C71F004AAB9F /* PlaceHolderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		A916B5762B069651004AAB9F /* AndroidBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AndroidBuilder.swift; sourceTree = "<group>"; };
 		A916B5782B06A740004AAB9F /* Android.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Android.swift; sourceTree = "<group>"; };
 		A916B57A2B06A7B8004AAB9F /* Species.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Species.swift; sourceTree = "<group>"; };
+		A916B57C2B06C71F004AAB9F /* PlaceHolderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceHolderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 			children = (
 				5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */,
 				A916B5782B06A740004AAB9F /* Android.swift */,
+				A916B57C2B06C71F004AAB9F /* PlaceHolderView.swift */,
 				A916B57A2B06A7B8004AAB9F /* Species.swift */,
 				A916B56C2B06934A004AAB9F /* BrainView.swift */,
 				A916B56E2B069373004AAB9F /* HeartView.swift */,
@@ -230,6 +233,7 @@
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
 				A916B5752B069399004AAB9F /* LegView.swift in Sources */,
 				A916B57B2B06A7B8004AAB9F /* Species.swift in Sources */,
+				A916B57D2B06C71F004AAB9F /* PlaceHolderView.swift in Sources */,
 				A916B5792B06A740004AAB9F /* Android.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
