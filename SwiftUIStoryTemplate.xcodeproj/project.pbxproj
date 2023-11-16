@@ -67,7 +67,6 @@
 				5DE6F6882AFAE482004ABB4F /* Chapter2 */,
 				5DE6F6892AFAE48E004ABB4F /* Chapter3 */,
 				5DE6F68A2AFAE492004ABB4F /* Chapter4 */,
-				5DE6F68B2AFAE49B004ABB4F /* Chapter5 */,
 				5DE6F6732AFADF08004ABB4F /* Assets.xcassets */,
 				5DE6F6752AFADF08004ABB4F /* Preview Content */,
 			);
@@ -110,6 +109,7 @@
 			isa = PBXGroup;
 			children = (
 				5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */,
+				5DE6F68B2AFAE49B004ABB4F /* Chapter5 */,
 			);
 			path = Chapter4;
 			sourceTree = "<group>";
