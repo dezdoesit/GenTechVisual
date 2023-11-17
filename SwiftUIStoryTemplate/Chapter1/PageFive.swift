@@ -29,8 +29,8 @@ struct PageFive: View {
                     )}.offset(x:108, y:240)
             
             
-            NavigationLink {PageSix()}
-        label: {Text("Next Page")
+            NavigationLink {EndPage()}
+        label: {Text("End Page")
         }.offset(x:90, y:30)
                 .buttonStyle(.borderedProminent)
             
