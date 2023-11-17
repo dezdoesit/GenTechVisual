@@ -13,10 +13,6 @@ struct ContentView: View {
                 .tabItem {
                     Label("Chapter 2", systemImage: "2.circle")
                 }
-            Chapter3View()
-                .tabItem {
-                    Label("Chapter 3", systemImage: "3.circle")
-                }
             Chapter4View()
                 .tabItem {
                     Label("Chapter 4", systemImage: "4.circle")
