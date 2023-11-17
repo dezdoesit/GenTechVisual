@@ -21,7 +21,7 @@ struct PageFive: View {
                     .foregroundColor(Color.red)
                     .border(Color.black, width: 5)
                     .overlay(
-                        Text("Humans grew to resent the robots to the point of plans on pushing back for their control and freedom. Humans have started to protest daily in the streets for justice against robotic surveillance during Winter.")
+                        Text("The robots have requested backup to prepare for the humans protest. EVA now walk the streets for criminals, Bender guards Power Station, and Terminator 3200 monitor humans for potential protest.")
                             .foregroundColor(.black)
                             .bold()
                             .multilineTextAlignment(.center)
@@ -29,15 +29,13 @@ struct PageFive: View {
                     )}.offset(x:108, y:240)
             
             
-            NavigationLink {PageSix()}
-        label: {Text("Next Page")
-        }.offset(x:90, y:30)
+            NavigationLink {EndPage()}
+        label: {Text("End")
+        }.offset(x:60, y:30)
                 .buttonStyle(.borderedProminent)
             
                 .tint(.black)
                 .foregroundColor(.yellow)
-            
-            
             
         }
     }
