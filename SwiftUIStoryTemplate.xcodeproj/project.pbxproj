@@ -21,6 +21,27 @@
 		5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */; };
 		5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */; };
 		5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */; };
+
+		DBE85C942B06C440008D0B23 /* Chapter_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85C932B06C440008D0B23 /* Chapter_1App.swift */; };
+		DBE85C982B06C4AF008D0B23 /* HubPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85C972B06C4AF008D0B23 /* HubPage.swift */; };
+		DBE85C9A2B06C4C9008D0B23 /* Pagetwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85C992B06C4C9008D0B23 /* Pagetwo.swift */; };
+		DBE85C9C2B06C4DF008D0B23 /* PageThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85C9B2B06C4DF008D0B23 /* PageThree.swift */; };
+		DBE85C9E2B06C4E8008D0B23 /* PageFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85C9D2B06C4E8008D0B23 /* PageFour.swift */; };
+		DBE85CA02B06C4F8008D0B23 /* PageFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85C9F2B06C4F8008D0B23 /* PageFive.swift */; };
+		DBE85CA22B06C504008D0B23 /* PageSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85CA12B06C504008D0B23 /* PageSix.swift */; };
+		DBE85CA42B06C511008D0B23 /* EndPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85CA32B06C511008D0B23 /* EndPage.swift */; };
+		DBE85CA62B06C52A008D0B23 /* PageOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE85CA52B06C52A008D0B23 /* PageOne.swift */; };
+
+		A916B56D2B06934A004AAB9F /* BrainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B56C2B06934A004AAB9F /* BrainView.swift */; };
+		A916B56F2B069373004AAB9F /* HeartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B56E2B069373004AAB9F /* HeartView.swift */; };
+		A916B5712B06937C004AAB9F /* EyeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5702B06937C004AAB9F /* EyeView.swift */; };
+		A916B5732B06938D004AAB9F /* ArmView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5722B06938D004AAB9F /* ArmView.swift */; };
+		A916B5752B069399004AAB9F /* LegView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5742B069399004AAB9F /* LegView.swift */; };
+		A916B5772B069651004AAB9F /* AndroidBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5762B069651004AAB9F /* AndroidBuilder.swift */; };
+		A916B5792B06A740004AAB9F /* Android.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B5782B06A740004AAB9F /* Android.swift */; };
+		A916B57B2B06A7B8004AAB9F /* Species.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B57A2B06A7B8004AAB9F /* Species.swift */; };
+		A916B57D2B06C71F004AAB9F /* PlaceHolderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A916B57C2B06C71F004AAB9F /* PlaceHolderView.swift */; };
+
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +60,27 @@
 		5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter3View.swift; sourceTree = "<group>"; };
 		5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 		5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter5View.swift; sourceTree = "<group>"; };
+
+		DBE85C932B06C440008D0B23 /* Chapter_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter_1App.swift; sourceTree = "<group>"; };
+		DBE85C972B06C4AF008D0B23 /* HubPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HubPage.swift; sourceTree = "<group>"; };
+		DBE85C992B06C4C9008D0B23 /* Pagetwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pagetwo.swift; sourceTree = "<group>"; };
+		DBE85C9B2B06C4DF008D0B23 /* PageThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageThree.swift; sourceTree = "<group>"; };
+		DBE85C9D2B06C4E8008D0B23 /* PageFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageFour.swift; sourceTree = "<group>"; };
+		DBE85C9F2B06C4F8008D0B23 /* PageFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageFive.swift; sourceTree = "<group>"; };
+		DBE85CA12B06C504008D0B23 /* PageSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageSix.swift; sourceTree = "<group>"; };
+		DBE85CA32B06C511008D0B23 /* EndPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndPage.swift; sourceTree = "<group>"; };
+		DBE85CA52B06C52A008D0B23 /* PageOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageOne.swift; sourceTree = "<group>"; };
+
+		A916B56C2B06934A004AAB9F /* BrainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrainView.swift; sourceTree = "<group>"; };
+		A916B56E2B069373004AAB9F /* HeartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartView.swift; sourceTree = "<group>"; };
+		A916B5702B06937C004AAB9F /* EyeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EyeView.swift; sourceTree = "<group>"; };
+		A916B5722B06938D004AAB9F /* ArmView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmView.swift; sourceTree = "<group>"; };
+		A916B5742B069399004AAB9F /* LegView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegView.swift; sourceTree = "<group>"; };
+		A916B5762B069651004AAB9F /* AndroidBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AndroidBuilder.swift; sourceTree = "<group>"; };
+		A916B5782B06A740004AAB9F /* Android.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Android.swift; sourceTree = "<group>"; };
+		A916B57A2B06A7B8004AAB9F /* Species.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Species.swift; sourceTree = "<group>"; };
+		A916B57C2B06C71F004AAB9F /* PlaceHolderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceHolderView.swift; sourceTree = "<group>"; };
+
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +138,15 @@
 			isa = PBXGroup;
 			children = (
 				5DE6F67D2AFAE3DF004ABB4F /* Chapter1View.swift */,
+				DBE85C932B06C440008D0B23 /* Chapter_1App.swift */,
+				DBE85C972B06C4AF008D0B23 /* HubPage.swift */,
+				DBE85CA52B06C52A008D0B23 /* PageOne.swift */,
+				DBE85C992B06C4C9008D0B23 /* Pagetwo.swift */,
+				DBE85C9B2B06C4DF008D0B23 /* PageThree.swift */,
+				DBE85C9D2B06C4E8008D0B23 /* PageFour.swift */,
+				DBE85C9F2B06C4F8008D0B23 /* PageFive.swift */,
+				DBE85CA12B06C504008D0B23 /* PageSix.swift */,
+				DBE85CA32B06C511008D0B23 /* EndPage.swift */,
 			);
 			path = Chapter1;
 			sourceTree = "<group>";
@@ -133,6 +184,15 @@
 			isa = PBXGroup;
 			children = (
 				5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */,
+				A916B5782B06A740004AAB9F /* Android.swift */,
+				A916B57C2B06C71F004AAB9F /* PlaceHolderView.swift */,
+				A916B57A2B06A7B8004AAB9F /* Species.swift */,
+				A916B56C2B06934A004AAB9F /* BrainView.swift */,
+				A916B56E2B069373004AAB9F /* HeartView.swift */,
+				A916B5702B06937C004AAB9F /* EyeView.swift */,
+				A916B5722B06938D004AAB9F /* ArmView.swift */,
+				A916B5742B069399004AAB9F /* LegView.swift */,
+				A916B5762B069651004AAB9F /* AndroidBuilder.swift */,
 			);
 			path = Chapter5;
 			sourceTree = "<group>";
@@ -207,7 +267,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A916B5732B06938D004AAB9F /* ArmView.swift in Sources */,
 				5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */,
+
 				40EFDD972B0409F800BDC81C /* AnimationView.swift in Sources */,
 				40EFDD9F2B06AD0600BDC81C /* Page4View.swift in Sources */,
 				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
@@ -215,10 +277,42 @@
 				40EFDDA12B06B03100BDC81C /* Chapter2View.swift in Sources */,
 				40EFDD9D2B06ABD900BDC81C /* Page3View.swift in Sources */,
 				40EFDDA32B06F8D300BDC81C /* GlowBorder.swift in Sources */,
+
+				A916B56D2B06934A004AAB9F /* BrainView.swift in Sources */,
+				A916B5712B06937C004AAB9F /* EyeView.swift in Sources */,
+				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
+				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
+
+				DBE85C9E2B06C4E8008D0B23 /* PageFour.swift in Sources */,
+				DBE85C982B06C4AF008D0B23 /* HubPage.swift in Sources */,
+				DBE85C9A2B06C4C9008D0B23 /* Pagetwo.swift in Sources */,
+
+				A916B5772B069651004AAB9F /* AndroidBuilder.swift in Sources */,
+
+				5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */,
+				DBE85CA62B06C52A008D0B23 /* PageOne.swift in Sources */,
+
 				5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */,
+				DBE85C942B06C440008D0B23 /* Chapter_1App.swift in Sources */,
+				DBE85CA02B06C4F8008D0B23 /* PageFive.swift in Sources */,
 				5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */,
+
+				DBE85CA42B06C511008D0B23 /* EndPage.swift in Sources */,
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
+
 				40EFDD9B2B06AB3600BDC81C /* Page2View.swift in Sources */,
+
+				DBE85CA22B06C504008D0B23 /* PageSix.swift in Sources */,
+				DBE85C9C2B06C4DF008D0B23 /* PageThree.swift in Sources */,
+
+				A916B56F2B069373004AAB9F /* HeartView.swift in Sources */,
+				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
+				A916B5752B069399004AAB9F /* LegView.swift in Sources */,
+				A916B57B2B06A7B8004AAB9F /* Species.swift in Sources */,
+				A916B57D2B06C71F004AAB9F /* PlaceHolderView.swift in Sources */,
+				A916B5792B06A740004AAB9F /* Android.swift in Sources */,
+
+
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
