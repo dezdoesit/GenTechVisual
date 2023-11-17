@@ -33,9 +33,11 @@ struct ArmView: View {
             
             Text(" With Robo Arms, I have the strength to punch and slice through steel. Pro: Capable of heavy lifts like machenary. Great for combat. Con: Unable to experience the sense of touch. ")
             
-            Image("roboarm")
+            Image("RoboPart2")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
+                .symbolEffect(.variableColor.iterative.nonReversing)
+                .symbolRenderingMode(.multicolor)
                 .frame(width:150)
             
                 .padding()

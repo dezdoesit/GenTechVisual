@@ -37,9 +37,11 @@ struct HeartView: View {
                
                 .padding()
             
-            Image("roboheart")
+            Image("RoboPart4")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
+                .symbolEffect(.variableColor.iterative.nonReversing)
+                .symbolRenderingMode(.multicolor)
                 .frame(width:200)
             
                 .padding()

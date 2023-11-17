@@ -38,9 +38,11 @@ struct BrainView: View {
             
                 .padding()
             
-            Image("robobrain")
+            Image("RoboPart5")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
+                .symbolEffect(.variableColor.iterative.nonReversing)
+                .symbolRenderingMode(.multicolor)
                 .onTapGesture {
                     customAndroid.Brain = Species.robot
                 }

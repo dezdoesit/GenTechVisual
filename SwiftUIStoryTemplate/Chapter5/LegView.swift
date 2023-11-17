@@ -32,16 +32,17 @@ struct LegView: View {
                 .bold()
                 .font(.largeTitle)
             
-            Image("roboleg")
+            Image("RoboPart3")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .frame(width:200)
-            
+                .symbolEffect(.variableColor.iterative.nonReversing)
+                .symbolRenderingMode(.multicolor)
                 .padding()
                 .padding()
             
             NavigationLink {
-                AndroidBuilder(customAndroid: customAndroid)
+                DragView(customAndroid: $customAndroid)
             } label: {
                 Text("Next")
                     .bold()

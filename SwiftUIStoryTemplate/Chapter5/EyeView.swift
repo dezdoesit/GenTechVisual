@@ -35,9 +35,11 @@ struct EyeView: View {
             
             Text("With Robo Eyes, I have the ability of x-ray vision. I can see through most materials. Pro: Super vision. Lack of eye fatigue. Con: Highly sensitive. Does not pair well with Human Brain. ")
             
-            Image("roboeye")
+            Image("RoboPart1")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
+                .symbolEffect(.variableColor.iterative.nonReversing)
+                .symbolRenderingMode(.multicolor)
                 .frame(width:150)
             
                 .padding()
